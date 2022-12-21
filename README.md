@@ -1,3 +1,10 @@
 # Nic-Details-with-JS
 
-https://obfuscator.io/
+BIRTH_DAY
+AGE
+GENDER
+DAY
+MONTH
+MONTH_NUMBER
+CARD_TYPE
+BIRTH_YEAR 
