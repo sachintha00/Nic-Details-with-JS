@@ -15,3 +15,7 @@ MONTH_NUMBER
 CARD_TYPE
 
 BIRTH_YEAR 
+
+
+
+slNic('id').MONTH
